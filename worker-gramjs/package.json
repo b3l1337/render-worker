@@ -1,0 +1,11 @@
+{
+  "name": "telegram-gramjs-worker",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "telegram": "^2.20.15",
+    "input": "^1.0.1"
+  }
+}
